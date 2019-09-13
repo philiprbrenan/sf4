@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_reference2">
+    <title>Reference 2</title>
+    <shortdesc>Second reference topic</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Answers<indexterm>escalating a question to a case</indexterm></indexterm>
+                <indexterm>Questions<indexterm>escalating to a case</indexterm></indexterm>
+                <indexterm>Chatter Answers<indexterm>escalating a question to a
+                    case</indexterm></indexterm>
+            </keywords>
+            <othermeta content="Communities_Chatter Case_Management" name="app_area"/>
+            <othermeta content="aloha" name="ui_platform"/>
+            <othermeta content="End_User" name="role"/>
+            <othermeta content="EE UE DE PXE" name="edition"/>
+            <othermeta content="task" name="topic_type"/>
+        </metadata>
+    </prolog>
+    <refbody>
+        <section id="section_z3w_d43_s3b">
+            <title>More reference info</title>
+            <p>Reference topic 2, item 1.</p>
+            <p>Reference topic 2, item 2.</p>
+        </section>
+    </refbody>
+</reference>
