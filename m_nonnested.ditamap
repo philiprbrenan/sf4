@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>A map that is not nested</title>
+    <topicref href="c_concept1.xml"/>
+    <topicref href="c_concept2.xml"/>
+    <topicref href="c_concept3.xml"/>
+    <topicref href="c_concept4.xml"/>
+</map>
