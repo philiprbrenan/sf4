@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd" []>
+<task id="tea">
+  <title>How to make a cup of tea</title>
+  <taskbody>
+
+    <context><p>You are in a well equipped kitchen with a packet of tea bags to
+    hand. You wish to make a cup of <xref>tea</xref> using a <image
+    href="mw.png"/></p></context>
+
+    <steps>
+      <step>
+        <cmd id="tea"><b>Bring</b> a kettle of water to the boil</cmd>
+      </step>
+      <step>
+        <cmd id="tea"><b>Place</b> a tea bag in an <b>insulated</b> glass</cmd>
+      </step>
+      <step>
+        <cmd><b>Pour</b> hot water over the tea bag until the glass is 80% full</cmd>
+      </step>
+      <step>
+        <cmd><b>Place</b> the glass in a microwave oven and power for 30 seconds.</cmd>
+      </step>
+      </steps>
+  </taskbody>
+</task>
