@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_concept3">
+    <title>Concept 3</title>
+    <shortdesc>The third concept.</shortdesc>
+    <prolog>
+        <metadata>
+            <othermeta content="task" name="topic_type"/>
+            <othermeta content="Reports Approvals" name="app_area"/>
+            <othermeta content="aloha sfx" name="ui_platform"/>
+            <othermeta content="Administrator" name="role"/>
+            <othermeta content="EE PXE UE DE" name="edition"/>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Third concept is here.</p>
+        <p><parmname
+                conref="resources/c_concept6_resource.dita#concept6_resource/parm_name_text_target"
+            /></p>
+        <p><parmname conref="resources/c_concept6_resource.dita#concept6_resource/parm_name_text_target_from_p"></parmname></p>
+        <table id="table_ftp_v5j_x3b">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1"/>
+                <colspec colname="c2" colnum="2"/>
+                <thead>
+                    <row>
+                        <entry>Source</entry>
+                        <entry>Conrefs</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Let's see if parm name comes through.</entry>
+                        <entry><parmname
+                                conref="resources/c_concept6_resource.dita#concept6_resource/parm_name_text_target"
+                            /></entry>
+                    </row>
+                    <row>
+                        <entry>And again let's try it a different way.</entry>
+                        <entry><parmname
+                                conref="resources/c_concept6_resource.dita#concept6_resource/parm_name_text_target_from_p"
+                            /></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p conref="resources/c_concept6_resource.dita#concept6_resource/parm_name_text_target"/>
+    </conbody>
+</concept>
