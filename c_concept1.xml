@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_concept1">
+    <title>Concept 1</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <metadata>
+            <othermeta content="task" name="topic_type"/>
+            <othermeta content="AppExchange" name="app_area"/>
+            <othermeta content="Developer Administrator Partner" name="role"/>
+            <othermeta content="GE PE EE PXE UE DE" name="edition"/>
+            <othermeta content="aloha sfx" name="ui_platform"/>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Test content</p>
+    </conbody>
+</concept>
