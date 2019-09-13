@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept5">
+    <title>Concept 5 in subfolder</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>This is a topic in a subfolder</p>
+        <p conref="../resources/c_concept6_resource.dita#concept6_resource/p_testconref"/>
+    </conbody>
+</concept>
