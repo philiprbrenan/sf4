@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []>
+<concept id="concept7_nonnested">
+  <title>Concept 7 nonnested file</title>
+  <shortdesc/>
+  <conbody>
+    <p id="p_nonnested">This concept should not appear in the project.</p>
+  </conbody>
+</concept>
+
