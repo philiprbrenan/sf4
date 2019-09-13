@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_concept2">
+    <title>Concept 2</title>
+    <shortdesc>Another concept topic</shortdesc>
+    <prolog>
+        <metadata>
+            <othermeta content="concept" name="topic_type"/>
+            <othermeta content="Developer_Guide_Reference Salesforce_Console" name="app_area"/>
+            <othermeta content="Developer Partner" name="role"/>
+            <othermeta content="PE EE PXE UE DE" name="edition"/>
+            <othermeta content="aloha sfx" name="ui_platform"/>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Heres the second concept.</p>
+        <p>Here's a fig with image:</p>
+        <fig id="fig_sw5_zvp_s3b">
+            <image href="images/business_plan_sections.png" id="image_xjh_bwp_s3b"/>
+        </fig>
+    </conbody>
+</concept>
