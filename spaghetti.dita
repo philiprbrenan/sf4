@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd" []>
+<task id="coffee">
+  <title>How to cook spaghetti</title>
+  <taskbody>
+
+    <context><p>You are in a well equipped kitchen with a packet of spaghetti
+    to hand.  You wish to cook some <xref>spaghetti</xref></p></context>
+
+    <steps>
+      <step>
+        <cmd>Bring a large pan of water to a rolling boil</cmd>
+      </step>
+      <step>
+        <cmd>Place the spaghetti in the boiling water</cmd>
+      </step>
+      <step>
+        <cmd>Cover the pan with a lid and turn the heat down</cmd>
+      </step>
+      <step>
+        <cmd>Cook for 15 minutes then drain through a collander</cmd>
+      </step>
+      </steps>
+  </taskbody>
+</task>
