@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_reference1">
+    <title>Reference 1</title>
+    <shortdesc>A reference topic, ref 1</shortdesc>
+    <prolog>
+        <metadata>
+            <!-- Delete the othermeta elements which are not needed. -->
+            <othermeta content="autoAdminDev" name="featureImpact"/>
+            <othermeta content="api force.comDev" name="cloud_content"/>
+            <othermeta content="EE PXE UE DE" name="edition"/>
+            <othermeta name="releaseType" content="ga"/>
+            <othermeta content="aloha mobile sfx" name="ui_platform"/>
+        </metadata>
+    </prolog>
+    <refbody>
+        <section id="section_xn5_ym3_s3b">
+            <title>Some reference info</title>
+            <p>One chunk.</p>
+            <p>Another chunk.</p>
+        </section>
+    </refbody>
+</reference>
