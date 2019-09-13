@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Test map for creating project files</title>
+    <topicref href="c_concept1.xml"/>
+    <topicref href="t_task1.xml"/>
+    <topicref href="r_reference1.xml"/>
+    <topicref href="subfolder1/submap1.ditamap" format="ditamap"/>
+    <topicref href="c_concept2.xml"/>
+    <topicref href="c_concept3.xml"/>
+    <topicref href="r_reference2.xml"/>
+    <topicref href="t_task2.xml"></topicref>
+    <mapref href="m_submap.ditamap"/>
+    <reltable>
+        <relrow>
+            <relcell>
+                <topicref href="t_task1.xml"/>
+            </relcell>
+            <relcell>
+                <topicref href="r_reference1.xml"/>
+            </relcell>
+           
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="t_task2.xml"/>
+            </relcell>
+            <relcell>
+                <topicref href="c_concept2.xml"/>
+            </relcell>
+            
+        </relrow>
+    </reltable>
+</map>
