@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task2">
+    <title>Task 2</title>
+    <shortdesc>Second task</shortdesc>
+    <prolog>
+        <metadata>
+            <keywords>
+                <indexterm>Currency<indexterm>currency locale</indexterm><indexterm>corporate
+                        currency</indexterm><indexterm>personal currency</indexterm></indexterm>
+                <indexterm otherprops="nopage">Currency locale<indexterm otherprops="nopage">See
+                        Currency</indexterm></indexterm>
+                <indexterm otherprops="nopage">Corporate currency<indexterm otherprops="nopage">See
+                        Currency</indexterm></indexterm>
+                <indexterm otherprops="nopage">Personal currency<indexterm otherprops="nopage">See
+                        Currency</indexterm></indexterm>
+            </keywords>
+            <othermeta content="Globalization" name="app_area"/>
+            <othermeta content="sfx aloha" name="ui_platform"/>
+            <othermeta content="Administrator" name="role"/>
+            <othermeta content="ES GE PE EE UE DE DBCOM PXE" name="edition"/>
+            <othermeta content="task" name="topic_type"/>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>Context about task 2</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Take this step.</cmd>
+            </step>
+            <step>
+                <cmd>Take another step.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
