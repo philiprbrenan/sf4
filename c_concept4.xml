@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_sfq_n43_s3b">
+    <title>Concept 4</title>
+    <shortdesc>Fourth concept</shortdesc>
+    <prolog>
+        <metadata>
+            <othermeta content="analytics" name="cloud_content"/>
+            <othermeta content="GE PE EE PXE UE DE" name="edition"/>
+            <othermeta content="ga" name="releaseType"/>
+            <othermeta content="aloha sfx" name="ui_platform"/>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>This is the fourth concept.</p>
+    </conbody>
+</concept>
